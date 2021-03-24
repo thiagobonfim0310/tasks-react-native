@@ -2,13 +2,9 @@
 
 ## Screenshot
 ***
-<img src="./Captura_de_tela/login.jpeg" width="200" height="400" >  
-<img src="./Captura_de_tela/cadastro.jpeg" width="200" height="400" >  
-<img src="./Captura_de_tela/menu.jpeg" width="200" height="400" >  
-<img src="./Captura_de_tela/hoje.jpeg" width="200" height="400" >  
-<img src="./Captura_de_tela/amanha.jpeg" width="200" height="400" >  
-<img src="./Captura_de_tela/semana.jpeg" width="200" height="400" >  
-<img src="./Captura_de_tela/mes.jpeg" width="200" height="400" >  
+<img src="./Captura_de_tela/video.gif" width="200" height="400" >  
+
+<img src="./Captura_de_tela/cadastro.jpeg" width="200" height="400" >  <img src="./Captura_de_tela/menu.jpeg" width="200" height="400" >  <img src="./Captura_de_tela/hoje.jpeg" width="200" height="400" >  <img src="./Captura_de_tela/amanha.jpeg" width="200" height="400" >  <img src="./Captura_de_tela/semana.jpeg" width="200" height="400" >  <img src="./Captura_de_tela/mes.jpeg" width="200" height="400" >  
 
 
 ## The Project
